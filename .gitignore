@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Local env + database
+.env
+*.db
+*.sqlite3
+
+# OS / editor
+.DS_Store

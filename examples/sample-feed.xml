@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Veloxi Sample Opportunity Feed</title>
+    <link>https://veloxi.local/feeds/sample</link>
+    <description>A small feed of real learning opportunities for testing live RSS ingestion.</description>
+    <item>
+      <title>Google AI Essentials</title>
+      <link>https://www.coursera.org/learn/google-ai-essentials</link>
+      <guid>veloxi-sample-google-ai-essentials</guid>
+      <pubDate>Mon, 02 Jun 2026 09:00:00 GMT</pubDate>
+      <description>Learn practical AI skills from Google to boost your productivity.</description>
+    </item>
+    <item>
+      <title>IBM Data Science Professional Certificate</title>
+      <link>https://www.coursera.org/professional-certificates/ibm-data-science</link>
+      <guid>veloxi-sample-ibm-data-science</guid>
+      <pubDate>Sun, 01 Jun 2026 12:00:00 GMT</pubDate>
+      <description>Kickstart a career in data science with hands-on Python and machine learning.</description>
+    </item>
+    <item>
+      <title>Microsoft Azure AI Fundamentals (AI-900)</title>
+      <link>https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/</link>
+      <guid>veloxi-sample-azure-ai-900</guid>
+      <pubDate>Fri, 30 May 2026 08:30:00 GMT</pubDate>
+      <description>Foundational knowledge of machine learning and AI concepts on Azure.</description>
+    </item>
+    <item>
+      <title>Google Digital Marketing &amp; E-commerce Certificate</title>
+      <link>https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce</link>
+      <guid>veloxi-sample-google-digital-marketing</guid>
+      <pubDate>Thu, 29 May 2026 15:45:00 GMT</pubDate>
+      <description>Build skills in digital marketing and e-commerce to start a new career.</description>
+    </item>
+    <item>
+      <title>Kaggle: Intro to Machine Learning</title>
+      <link>https://www.kaggle.com/learn/intro-to-machine-learning</link>
+      <guid>veloxi-sample-kaggle-intro-ml</guid>
+      <pubDate>Wed, 28 May 2026 11:10:00 GMT</pubDate>
+      <description>A free, hands-on introduction to building machine learning models.</description>
+    </item>
+    <item>
+      <title>AWS Certified AI Practitioner</title>
+      <link>https://aws.amazon.com/certification/certified-ai-practitioner/</link>
+      <guid>veloxi-sample-aws-ai-practitioner</guid>
+      <pubDate>Tue, 27 May 2026 10:00:00 GMT</pubDate>
+      <description>Validate in-demand knowledge of AI, ML, and generative AI on AWS.</description>
+    </item>
+    <item>
+      <title>Google IT Support Professional Certificate</title>
+      <link>https://www.coursera.org/professional-certificates/google-it-support?utm_source=veloxi-feed</link>
+      <guid>veloxi-sample-google-it-support</guid>
+      <pubDate>Mon, 26 May 2026 09:00:00 GMT</pubDate>
+      <description>Already in the index — included to demonstrate dedupe by canonical URL.</description>
+    </item>
+    <item>
+      <title>CS50: Introduction to Computer Science</title>
+      <link>https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science</link>
+      <guid>veloxi-sample-cs50</guid>
+      <pubDate>Sun, 25 May 2026 09:00:00 GMT</pubDate>
+      <description>Already in the index — included to demonstrate dedupe by canonical URL.</description>
+    </item>
+  </channel>
+</rss>
